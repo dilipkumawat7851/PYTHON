@@ -1,0 +1,15 @@
+Datatypes:
+ 
+ integer - whole number for example 1,2,3,4
+ string  -  sentence , word ,character 
+ float   - decimal no for example 1.1,2.1 etc
+ Boolean -true or false value
+
+ objects:  -
+        ojects are collection of Datatypes
+
+
+ list
+ Dictionary
+ set/tuple
+
